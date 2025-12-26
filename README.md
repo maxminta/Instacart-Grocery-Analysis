@@ -24,3 +24,21 @@ With a strong emphasis on real-world decision-making, this project analyzes when
 * What meaningful customer segments can be derived from demographic data (age, income, family status)?
 
 * How do ordering patterns vary across different customer profiles?
+
+## Folders
+Description of folder contents are as follows:
+
+Project Management: Contains the project brief and related documentation.
+
+Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
+
+'Original Data': Original datasets.
+'Prepared Data': Cleaned data ready for analysis.
+
+Scripts: Python code for the analysis, executed using Jupyter notebooks.
+
+Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
+
+Sent to Client: Final Excel presentation.
+
+
