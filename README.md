@@ -57,6 +57,10 @@ Seaborn – Statistical and exploratory visualizations
 
 SciPy – Scientific and technical computing
 
+## Disclaimer
+
+Instacart is a real company that has made data publicly available. All customer-level data used in this project is synthetic and utilized solely for educational purposes as part of the CareerFoundry Data Analytics program.
+
 
 
 
