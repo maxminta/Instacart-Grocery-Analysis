@@ -28,17 +28,17 @@ With a strong emphasis on real-world decision-making, this project analyzes when
 ## Folders
 Description of folder contents are as follows:
 
-Project Management: Contains the project brief and related documentation.
+01 Project Management: Contains the project brief and related documentation.
 
-Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
+02 Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
 
 'Original Data': Original datasets.
 'Prepared Data': Cleaned data ready for analysis.
 
-Scripts: Python code for the analysis, executed using Jupyter notebooks.
+03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
 
-Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
+04 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
 
-Sent to Client: Final Excel presentation.
+05 Sent to Client: Final Excel presentation.
 
 
