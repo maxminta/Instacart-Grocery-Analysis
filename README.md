@@ -41,4 +41,22 @@ Description of folder contents are as follows:
 
 05 Sent to Client: Final Excel presentation.
 
+## Tools & Technologies
+
+The analysis was conducted using Python in Jupyter notebooks, with the following libraries:
+
+Pandas – Data cleaning, manipulation, and analysis
+
+NumPy – Numerical operations and efficient data handling
+
+OS – File and directory management
+
+Matplotlib – Data visualization and custom chart formatting
+
+Seaborn – Statistical and exploratory visualizations
+
+SciPy – Scientific and technical computing
+
+
+
 
